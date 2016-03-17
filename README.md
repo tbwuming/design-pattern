@@ -1,2 +1,2 @@
 # design-pattern
-java design pattern demo
+java design pattern demo, just fighting
