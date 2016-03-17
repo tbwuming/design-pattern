@@ -1,2 +1,2 @@
 # design-pattern
-java design pattern instance
+java design pattern demo
