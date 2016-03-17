@@ -1,2 +1,2 @@
 # design-pattern
-java design pattern example, just fighting, 2
+java design pattern example, just fighting, brother
